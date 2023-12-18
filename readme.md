@@ -8,7 +8,7 @@ The dataset used in this project includes https://www.kaggle.com/datasets/kartik
 
 ### Data Description
 - **Columns:** The dataset comprises several columns/features, including transaction amount, time, type, and other relevant information.
-- **Size:** The dataset consists of [mention the number of rows and columns].
+- **Size:** The dataset consists credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
 ## Exploratory Data Analysis (EDA)
 The project commences with an Exploratory Data Analysis phase to gain insights into the dataset. Key steps in the EDA process include:
@@ -32,7 +32,7 @@ The project involves building a fraud detection model using the Random Forest al
 
 ## How to Use
 1. **Environment Setup:** Set up the required Python environment and dependencies specified in the `requirements.txt` file.
-2. **Run the Notebook:** Execute the Jupyter notebook `fraud_detection.ipynb` or Python script `fraud_detection.py` to replicate the analysis and model creation process.
+2. **Run the Notebook:** Execute the Jupyter notebook `fraud_detection.ipynb` to replicate the analysis and model creation process.
 3. **Interpretation:** Refer to the comments and markdown cells in the notebook for detailed explanations of each step.
 
 ## Conclusion
