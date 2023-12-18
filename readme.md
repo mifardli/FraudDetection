@@ -4,7 +4,7 @@
 This project focuses on developing a fraud detection model using machine learning techniques, specifically employing the Random Forest algorithm. The dataset contains transactional information and is utilized to predict fraudulent transactions.
 
 ## Dataset
-The dataset used in this project includes [provide details about the dataset source if available].
+The dataset used in this project includes https://www.kaggle.com/datasets/kartik2112/fraud-detection/data .
 
 ### Data Description
 - **Columns:** The dataset comprises several columns/features, including transaction amount, time, type, and other relevant information.
